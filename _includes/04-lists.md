@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+Things I love:
+- Coffee :heart:
+- Cats :sparkles:
+- Art :tada:
